@@ -31,9 +31,16 @@ TODO
 
 ### Bat
 
-- Download the theme to `~/.config/bat/themes`
-- Run `bat cache --build`
-- Add `--theme="Forest Night"` or `--theme="Forest Night (Italic)"` to `~/.config/bat/config`
+```sh
+mkdir -p "$(bat --config-dir)/themes"
+cd "$(bat --config-dir)/themes"
+
+# Download a theme in '.tmTheme' format, for example:
+git clone https://github.com/mhanberg/forest-night-textmate.git
+
+# Update the binary cache
+bat cache --build
+```
 
 ## Related Projects
 
