@@ -50,4 +50,4 @@ See this [wiki page](https://github.com/sainnhe/forest-night/wiki/Related-Projec
 
 ## License
 
-[MIT License](https://github.com/mhanberg/forest-night-textmate/blob/master/LICENSE) © sainnhe
+[MIT License](https://github.com/mhanberg/forest-night-textmate/blob/master/LICENSE) © Mitchell Hanberg
