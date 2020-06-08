@@ -1,0 +1,53 @@
+<h1 align="center">
+𝐅𝐨𝐫𝐞𝐬𝐭 𝐍𝐢𝐠𝐡𝐭
+</h1>
+
+<p align="center">
+  <a href="https://github.com/mhanberg/forest-night-textmate">Repository</a> |
+  <a href="https://github.com/mhanberg/forest-night-textmate/issues">Issues</a> |
+  <a href="https://github.com/mhanberg/forest-night-textmate/blob/master/CHANGELOG.md">Changelog</a>
+  <br><br>
+</p>
+
+This color scheme is a port of [Forest Night](https://github.com/sainnhe/forest-night) for browsers that use `tmTheme`, like Sublime Text and was generated using [Code Theme Converter](https://github.com/tobiastimm/code-theme-converter). 
+
+## Features
+
+- Green based but warm-toned.
+- Designed to have soft contrast for eye protection.
+- Works well with [redshift](https://github.com/jonls/redshift) and [f.lux](https://justgetflux.com).
+- Rich support for common file types.
+- Italic support.
+
+## Installation
+
+### Sublime Text
+
+TODO
+
+### Bat
+
+- Download the theme to `~/.config/bat/themes`
+- Run `bat cache --build`
+- Add `--theme="Forest Night"` or `--theme="Forest Night (Italic)"` to `~/.config/bat/config`
+
+## Related Projects
+
+See this [wiki page](https://github.com/sainnhe/forest-night/wiki/Related-Projects).
+
+### More Color Schemes
+
+- [Gruvbox Material](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material)
+- [Edge](https://marketplace.visualstudio.com/items?itemName=sainnhe.edge)
+- [Sonokai](https://marketplace.visualstudio.com/items?itemName=sainnhe.sonokai)
+
+
+## Inspiration
+
+- [rhysd/vim-color-spring-night](https://github.com/rhysd/vim-color-spring-night)
+- [KKPMW/sacredforest-vim](https://github.com/KKPMW/sacredforest-vim)
+- [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material)
+
+## License
+
+[MIT License](https://github.com/mhanberg/forest-night-textmate/blob/master/LICENSE) © sainnhe
