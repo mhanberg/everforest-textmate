@@ -9,7 +9,7 @@
   <br><br>
 </p>
 
-This color scheme is a port of [Forest Night](https://github.com/sainnhe/forest-night) for browsers that use `tmTheme`, like Sublime Text and was generated using [Code Theme Converter](https://github.com/tobiastimm/code-theme-converter). 
+This color scheme is a port of [Forest Night](https://github.com/sainnhe/forest-night) for editors that use `tmTheme`, like Sublime Text and was generated using [Code Theme Converter](https://github.com/tobiastimm/code-theme-converter). 
 
 ## Features
 
@@ -22,6 +22,10 @@ This color scheme is a port of [Forest Night](https://github.com/sainnhe/forest-
 ## Installation
 
 ### Sublime Text
+
+TODO
+
+### TextMate
 
 TODO
 
