@@ -1,15 +1,15 @@
 <h1 align="center">
-𝐅𝐨𝐫𝐞𝐬𝐭 𝐍𝐢𝐠𝐡𝐭
+𝐄𝐯𝐞𝐫𝐟𝐨𝐫𝐞𝐬𝐭
 </h1>
 
 <p align="center">
-  <a href="https://github.com/mhanberg/forest-night-textmate">Repository</a> |
-  <a href="https://github.com/mhanberg/forest-night-textmate/issues">Issues</a> |
-  <a href="https://github.com/mhanberg/forest-night-textmate/blob/master/CHANGELOG.md">Changelog</a>
+  <a href="https://github.com/mhanberg/everforest-textmate">Repository</a> |
+  <a href="https://github.com/mhanberg/everforest-textmate/issues">Issues</a> |
+  <a href="https://github.com/mhanberg/everforest-textmate/blob/master/CHANGELOG.md">Changelog</a>
   <br><br>
 </p>
 
-This color scheme is a port of [Forest Night](https://github.com/sainnhe/forest-night) for editors that use `tmTheme`, like Sublime Text and was generated using [Code Theme Converter](https://github.com/tobiastimm/code-theme-converter). 
+This color scheme is a port of [Forest Night](https://github.com/sainnhe/everforest) for editors that use `tmTheme`, like Sublime Text and was generated using [Code Theme Converter](https://github.com/tobiastimm/code-theme-converter). 
 
 ## Features
 
@@ -36,7 +36,7 @@ mkdir -p "$(bat --config-dir)/themes"
 cd "$(bat --config-dir)/themes"
 
 # Download a theme in '.tmTheme' format, for example:
-git clone https://github.com/mhanberg/forest-night-textmate.git
+git clone https://github.com/mhanberg/everforest-textmate.git
 
 # Update the binary cache
 bat cache --build
@@ -44,7 +44,7 @@ bat cache --build
 
 ## Related Projects
 
-See this [wiki page](https://github.com/sainnhe/forest-night/wiki/Related-Projects).
+See this [wiki page](https://github.com/sainnhe/everforest/wiki/Related-Projects).
 
 ### More Color Schemes
 
@@ -61,4 +61,4 @@ See this [wiki page](https://github.com/sainnhe/forest-night/wiki/Related-Projec
 
 ## License
 
-[MIT License](https://github.com/mhanberg/forest-night-textmate/blob/master/LICENSE) © Mitchell Hanberg
+[MIT License](https://github.com/mhanberg/everforest-textmate/blob/master/LICENSE) © Mitchell Hanberg
