@@ -9,7 +9,7 @@
   <br><br>
 </p>
 
-This color scheme is a port of [Forest Night](https://github.com/sainnhe/everforest) for editors that use `tmTheme`, like Sublime Text and was generated using [Code Theme Converter](https://github.com/tobiastimm/code-theme-converter). 
+This color scheme is a port of [Everforest](https://github.com/sainnhe/everforest) for editors that use `tmTheme`, like Sublime Text and was generated using [Code Theme Converter](https://github.com/tobiastimm/code-theme-converter). 
 
 ## Features
 
